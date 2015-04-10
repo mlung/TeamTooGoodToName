@@ -9,3 +9,6 @@ W:\CNIT 255\Group Project\GroupProject\GroupProject\obj\Debug\Basic Pay Calculat
 W:\CNIT 255\Group Project\GroupProject\GroupProject\obj\Debug\Basic Pay Calculator.pdb
 W:\CNIT 255\Group Project\GroupProject\GroupProject\obj\Debug\frmVendor.resources
 W:\CNIT 255\Group Project\GroupProject\GroupProject\obj\Debug\frmPurchase.resources
+X:\Documents\GitHub\TeamTooGoodToName\GroupProject\GroupProject\bin\Debug\Basic Pay Calculator.exe.config
+X:\Documents\GitHub\TeamTooGoodToName\GroupProject\GroupProject\obj\Debug\Basic Pay Calculator.exe
+X:\Documents\GitHub\TeamTooGoodToName\GroupProject\GroupProject\obj\Debug\Basic Pay Calculator.pdb
