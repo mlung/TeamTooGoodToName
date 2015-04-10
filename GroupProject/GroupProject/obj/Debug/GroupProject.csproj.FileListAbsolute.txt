@@ -1,0 +1,11 @@
+W:\CNIT 255\Group Project\GroupProject\GroupProject\bin\Debug\Basic Pay Calculator.exe.config
+W:\CNIT 255\Group Project\GroupProject\GroupProject\obj\Debug\GroupProject.csprojResolveAssemblyReference.cache
+W:\CNIT 255\Group Project\GroupProject\GroupProject\obj\Debug\frmMain.resources
+W:\CNIT 255\Group Project\GroupProject\GroupProject\obj\Debug\frmMedia.resources
+W:\CNIT 255\Group Project\GroupProject\GroupProject\obj\Debug\GroupProject.csproj.GenerateResource.Cache
+W:\CNIT 255\Group Project\GroupProject\GroupProject\bin\Debug\Basic Pay Calculator.exe
+W:\CNIT 255\Group Project\GroupProject\GroupProject\bin\Debug\Basic Pay Calculator.pdb
+W:\CNIT 255\Group Project\GroupProject\GroupProject\obj\Debug\Basic Pay Calculator.exe
+W:\CNIT 255\Group Project\GroupProject\GroupProject\obj\Debug\Basic Pay Calculator.pdb
+W:\CNIT 255\Group Project\GroupProject\GroupProject\obj\Debug\frmVendor.resources
+W:\CNIT 255\Group Project\GroupProject\GroupProject\obj\Debug\frmPurchase.resources
