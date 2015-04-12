@@ -45,6 +45,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="clsComboBoxItem.cs" />
+    <Compile Include="clsMedia.cs" />
+    <Compile Include="clsSQL.cs" />
+    <Compile Include="clsValidation.cs" />
     <Compile Include="frmPurchase.cs">
       <SubType>Form</SubType>
     </Compile>
