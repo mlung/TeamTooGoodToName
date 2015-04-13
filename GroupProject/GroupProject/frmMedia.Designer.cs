@@ -4,22 +4,11 @@
 
     private void InitializeComponent()
     {
-            this.btnMedia = new System.Windows.Forms.Button();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.fileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.exitToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
-            // 
-            // btnMedia
-            // 
-            this.btnMedia.Location = new System.Drawing.Point(12, 27);
-            this.btnMedia.Name = "btnMedia";
-            this.btnMedia.Size = new System.Drawing.Size(489, 23);
-            this.btnMedia.TabIndex = 0;
-            this.btnMedia.Text = "Media Management";
-            this.btnMedia.UseVisualStyleBackColor = true;
-            this.btnMedia.Click += new System.EventHandler(this.btnMedia_Click);
             // 
             // menuStrip1
             // 
@@ -42,13 +31,12 @@
             // exitToolStripMenuItem
             // 
             this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            this.exitToolStripMenuItem.Size = new System.Drawing.Size(92, 22);
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.exitToolStripMenuItem.Text = "Exit";
             // 
             // frmMedia
             // 
-            this.ClientSize = new System.Drawing.Size(513, 153);
-            this.Controls.Add(this.btnMedia);
+            this.ClientSize = new System.Drawing.Size(513, 257);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "frmMedia";
@@ -62,7 +50,6 @@
 
     #endregion
 
-    private System.Windows.Forms.Button btnMedia;
     private System.Windows.Forms.MenuStrip menuStrip1;
     private System.Windows.Forms.ToolStripMenuItem fileToolStripMenuItem;
     private System.Windows.Forms.ToolStripMenuItem exitToolStripMenuItem;
