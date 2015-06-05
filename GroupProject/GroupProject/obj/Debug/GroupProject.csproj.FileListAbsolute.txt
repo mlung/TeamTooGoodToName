@@ -12,3 +12,118 @@ W:\CNIT 255\Group Project\GroupProject\GroupProject\obj\Debug\frmPurchase.resour
 X:\Documents\GitHub\TeamTooGoodToName\GroupProject\GroupProject\bin\Debug\Basic Pay Calculator.exe.config
 X:\Documents\GitHub\TeamTooGoodToName\GroupProject\GroupProject\obj\Debug\Basic Pay Calculator.exe
 X:\Documents\GitHub\TeamTooGoodToName\GroupProject\GroupProject\obj\Debug\Basic Pay Calculator.pdb
+X:\Documents\GitHub\TeamTooGoodToName\GroupProject\GroupProject\bin\Debug\Basic Pay Calculator.exe
+X:\Documents\GitHub\TeamTooGoodToName\GroupProject\GroupProject\bin\Debug\Basic Pay Calculator.pdb
+X:\Documents\GitHub\TeamTooGoodToName\GroupProject\GroupProject\obj\Debug\GroupProject.csprojResolveAssemblyReference.cache
+X:\Documents\GitHub\TeamTooGoodToName\GroupProject\GroupProject\obj\Debug\frmMain.resources
+X:\Documents\GitHub\TeamTooGoodToName\GroupProject\GroupProject\obj\Debug\frmPurchase.resources
+X:\Documents\GitHub\TeamTooGoodToName\GroupProject\GroupProject\obj\Debug\frmVendor.resources
+X:\Documents\GitHub\TeamTooGoodToName\GroupProject\GroupProject\obj\Debug\frmMedia.resources
+X:\Documents\GitHub\TeamTooGoodToName\GroupProject\GroupProject\obj\Debug\GroupProject.csproj.GenerateResource.Cache
+U:\Personal\GroupProject-April12-851p\GroupProject\GroupProject\bin\Debug\Basic Pay Calculator.exe.config
+U:\Personal\GroupProject-April12-851p\GroupProject\GroupProject\obj\Debug\Basic Pay Calculator.exe
+U:\Personal\GroupProject-April12-851p\GroupProject\GroupProject\obj\Debug\Basic Pay Calculator.pdb
+U:\Personal\GroupProject-April12-851p\GroupProject\GroupProject\bin\Debug\Basic Pay Calculator.exe
+U:\Personal\GroupProject-April12-851p\GroupProject\GroupProject\bin\Debug\Basic Pay Calculator.pdb
+U:\Personal\GroupProject-April12-851p\GroupProject\GroupProject\obj\Debug\GroupProject.csprojResolveAssemblyReference.cache
+U:\Personal\GroupProject-April12-851p\GroupProject\GroupProject\obj\Debug\frmMain.resources
+U:\Personal\GroupProject-April12-851p\GroupProject\GroupProject\obj\Debug\frmPurchase.resources
+U:\Personal\GroupProject-April12-851p\GroupProject\GroupProject\obj\Debug\frmVendor.resources
+U:\Personal\GroupProject-April12-851p\GroupProject\GroupProject\obj\Debug\frmMedia.resources
+U:\Personal\GroupProject-April12-851p\GroupProject\GroupProject\obj\Debug\GroupProject.csproj.GenerateResource.Cache
+W:\CNIT 255\Group Project\GroupProject-April 15 2015 Kyle\GroupProject\GroupProject\bin\Debug\Basic Pay Calculator.exe.config
+W:\CNIT 255\Group Project\GroupProject-April 15 2015 Kyle\GroupProject\GroupProject\obj\Debug\Basic Pay Calculator.exe
+W:\CNIT 255\Group Project\GroupProject-April 15 2015 Kyle\GroupProject\GroupProject\obj\Debug\Basic Pay Calculator.pdb
+W:\CNIT 255\Group Project\GroupProject-April 15 2015 Kyle\GroupProject\GroupProject\bin\Debug\Basic Pay Calculator.exe
+W:\CNIT 255\Group Project\GroupProject-April 15 2015 Kyle\GroupProject\GroupProject\bin\Debug\Basic Pay Calculator.pdb
+W:\CNIT 255\Group Project\GroupProject-April 15 2015 Kyle\GroupProject\GroupProject\obj\Debug\GroupProject.csprojResolveAssemblyReference.cache
+W:\CNIT 255\Group Project\GroupProject-April 15 2015 Kyle\GroupProject\GroupProject\obj\Debug\frmMain.resources
+W:\CNIT 255\Group Project\GroupProject-April 15 2015 Kyle\GroupProject\GroupProject\obj\Debug\frmPurchase.resources
+W:\CNIT 255\Group Project\GroupProject-April 15 2015 Kyle\GroupProject\GroupProject\obj\Debug\frmVendor.resources
+W:\CNIT 255\Group Project\GroupProject-April 15 2015 Kyle\GroupProject\GroupProject\obj\Debug\frmMedia.resources
+W:\CNIT 255\Group Project\GroupProject-April 15 2015 Kyle\GroupProject\GroupProject\obj\Debug\GroupProject.csproj.GenerateResource.Cache
+W:\CNIT 255\Group Project\GroupProject-April 15 2015 Kyle\GroupProject\GroupProject\obj\Debug\GroupProject.Properties.Resources.resources
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\GroupProject - ML April 15 528P\GroupProject\GroupProject\bin\Debug\Basic Pay Calculator.exe.config
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\GroupProject - ML April 15 528P\GroupProject\GroupProject\obj\Debug\Basic Pay Calculator.exe
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\GroupProject - ML April 15 528P\GroupProject\GroupProject\obj\Debug\Basic Pay Calculator.pdb
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\GroupProject - ML April 15 528P\GroupProject\GroupProject\bin\Debug\Basic Pay Calculator.exe
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\GroupProject - ML April 15 528P\GroupProject\GroupProject\bin\Debug\Basic Pay Calculator.pdb
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\GroupProject - ML April 15 528P\GroupProject\GroupProject\obj\Debug\GroupProject.csprojResolveAssemblyReference.cache
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\GroupProject - ML April 15 528P\GroupProject\GroupProject\obj\Debug\frmMain.resources
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\GroupProject - ML April 15 528P\GroupProject\GroupProject\obj\Debug\frmPurchase.resources
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\GroupProject - ML April 15 528P\GroupProject\GroupProject\obj\Debug\frmVendor.resources
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\GroupProject - ML April 15 528P\GroupProject\GroupProject\obj\Debug\frmMedia.resources
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\GroupProject - ML April 15 528P\GroupProject\GroupProject\obj\Debug\GroupProject.Properties.Resources.resources
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\GroupProject - ML April 15 528P\GroupProject\GroupProject\obj\Debug\GroupProject.csproj.GenerateResource.Cache
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\GroupProject - ML April 26 WIP\GroupProject\GroupProject\obj\Debug\GroupProject.csprojResolveAssemblyReference.cache
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\GroupProject - ML April 26 WIP\GroupProject\GroupProject\obj\Debug\frmMain.resources
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\GroupProject - ML April 26 WIP\GroupProject\GroupProject\obj\Debug\frmPurchase.resources
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\GroupProject - ML April 26 WIP\GroupProject\GroupProject\obj\Debug\frmVendor.resources
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\GroupProject - ML April 26 WIP\GroupProject\GroupProject\obj\Debug\frmMedia.resources
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\GroupProject - ML April 26 WIP\GroupProject\GroupProject\obj\Debug\GroupProject.Properties.Resources.resources
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\GroupProject - ML April 26 WIP\GroupProject\GroupProject\obj\Debug\GroupProject.csproj.GenerateResource.Cache
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\GroupProject - ML April 26 WIP\GroupProject\GroupProject\bin\Debug\GroupProject.exe.config
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\GroupProject - ML April 26 WIP\GroupProject\GroupProject\bin\Debug\GroupProject.exe
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\GroupProject - ML April 26 WIP\GroupProject\GroupProject\bin\Debug\GroupProject.pdb
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\GroupProject - ML April 26 WIP\GroupProject\GroupProject\obj\Debug\GroupProject.exe
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\GroupProject - ML April 26 WIP\GroupProject\GroupProject\obj\Debug\GroupProject.pdb
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\Team P Presentation Version\GroupProject\bin\Debug\GroupProject.exe.config
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\Team P Presentation Version\GroupProject\obj\Debug\GroupProject.exe
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\Team P Presentation Version\GroupProject\obj\Debug\GroupProject.pdb
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\Team P Presentation Version\GroupProject\bin\Debug\GroupProject.exe
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\Team P Presentation Version\GroupProject\bin\Debug\GroupProject.pdb
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\Team P Presentation Version\GroupProject\obj\Debug\GroupProject.csprojResolveAssemblyReference.cache
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\Team P Presentation Version\GroupProject\obj\Debug\frmMain.resources
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\Team P Presentation Version\GroupProject\obj\Debug\frmPurchase.resources
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\Team P Presentation Version\GroupProject\obj\Debug\frmVendor.resources
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\Team P Presentation Version\GroupProject\obj\Debug\frmMedia.resources
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\Team P Presentation Version\GroupProject\obj\Debug\GroupProject.Properties.Resources.resources
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\Team P Presentation Version\GroupProject\obj\Debug\GroupProject.csproj.GenerateResource.Cache
+W:\CNIT 255\Group Project\GroupProject 4-29-WIP\GroupProject\bin\Debug\GroupProject.exe.config
+W:\CNIT 255\Group Project\GroupProject 4-29-WIP\GroupProject\obj\Debug\GroupProject.exe
+W:\CNIT 255\Group Project\GroupProject 4-29-WIP\GroupProject\obj\Debug\GroupProject.pdb
+W:\CNIT 255\Group Project\GroupProject 4-29-WIP\GroupProject\bin\Debug\GroupProject.exe
+W:\CNIT 255\Group Project\GroupProject 4-29-WIP\GroupProject\bin\Debug\GroupProject.pdb
+W:\CNIT 255\Group Project\GroupProject 4-29-WIP\GroupProject\obj\Debug\GroupProject.csprojResolveAssemblyReference.cache
+W:\CNIT 255\Group Project\GroupProject 4-29-WIP\GroupProject\obj\Debug\frmMain.resources
+W:\CNIT 255\Group Project\GroupProject 4-29-WIP\GroupProject\obj\Debug\frmPurchase.resources
+W:\CNIT 255\Group Project\GroupProject 4-29-WIP\GroupProject\obj\Debug\frmVendor.resources
+W:\CNIT 255\Group Project\GroupProject 4-29-WIP\GroupProject\obj\Debug\frmMedia.resources
+W:\CNIT 255\Group Project\GroupProject 4-29-WIP\GroupProject\obj\Debug\GroupProject.Properties.Resources.resources
+W:\CNIT 255\Group Project\GroupProject 4-29-WIP\GroupProject\obj\Debug\GroupProject.csproj.GenerateResource.Cache
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\429\Miranda\GroupProject\bin\Debug\GroupProject.exe.config
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\429\Miranda\GroupProject\obj\Debug\GroupProject.exe
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\429\Miranda\GroupProject\obj\Debug\GroupProject.pdb
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\429\Miranda\GroupProject\obj\Debug\GroupProject.csprojResolveAssemblyReference.cache
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\429\Miranda\GroupProject\obj\Debug\frmMain.resources
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\429\Miranda\GroupProject\obj\Debug\frmPurchase.resources
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\429\Miranda\GroupProject\obj\Debug\frmVendor.resources
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\429\Miranda\GroupProject\obj\Debug\frmMedia.resources
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\429\Miranda\GroupProject\obj\Debug\GroupProject.Properties.Resources.resources
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\429\Miranda\GroupProject\obj\Debug\GroupProject.csproj.GenerateResource.Cache
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\429\Miranda\GroupProject\bin\Debug\GroupProject.exe
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\429\Miranda\GroupProject\bin\Debug\GroupProject.pdb
+U:\Personal\Group P - Client Presentation (4-30)\GroupProject\bin\Debug\GroupProject.exe.config
+U:\Personal\Group P - Client Presentation (4-30)\GroupProject\obj\Debug\GroupProject.exe
+U:\Personal\Group P - Client Presentation (4-30)\GroupProject\obj\Debug\GroupProject.pdb
+U:\Personal\Group P - Client Presentation (4-30)\GroupProject\bin\Debug\GroupProject.exe
+U:\Personal\Group P - Client Presentation (4-30)\GroupProject\bin\Debug\GroupProject.pdb
+U:\Personal\Group P - Client Presentation (4-30)\GroupProject\obj\Debug\GroupProject.csprojResolveAssemblyReference.cache
+U:\Personal\Group P - Client Presentation (4-30)\GroupProject\obj\Debug\frmMain.resources
+U:\Personal\Group P - Client Presentation (4-30)\GroupProject\obj\Debug\frmPurchase.resources
+U:\Personal\Group P - Client Presentation (4-30)\GroupProject\obj\Debug\frmVendor.resources
+U:\Personal\Group P - Client Presentation (4-30)\GroupProject\obj\Debug\frmMedia.resources
+U:\Personal\Group P - Client Presentation (4-30)\GroupProject\obj\Debug\GroupProject.Properties.Resources.resources
+U:\Personal\Group P - Client Presentation (4-30)\GroupProject\obj\Debug\GroupProject.csproj.GenerateResource.Cache
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\Final\GroupProject\bin\Debug\GroupProject.exe.config
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\Final\GroupProject\obj\Debug\GroupProject.exe
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\Final\GroupProject\obj\Debug\GroupProject.pdb
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\Final\GroupProject\obj\Debug\GroupProject.csprojResolveAssemblyReference.cache
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\Final\GroupProject\obj\Debug\frmMain.resources
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\Final\GroupProject\obj\Debug\frmPurchase.resources
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\Final\GroupProject\obj\Debug\frmVendor.resources
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\Final\GroupProject\obj\Debug\frmMedia.resources
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\Final\GroupProject\obj\Debug\GroupProject.Properties.Resources.resources
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\Final\GroupProject\obj\Debug\GroupProject.csproj.GenerateResource.Cache
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\Final\GroupProject\bin\Debug\GroupProject.exe
+C:\Users\Mira\Documents\Homework\CNIT 255\Group Project\Final\GroupProject\bin\Debug\GroupProject.pdb

@@ -5,6 +5,12 @@ public class clsComboBoxItem
     private int aID;
     private string aText;
 
+    public clsComboBoxItem(int id, string text)
+    {
+        aID = id;
+        aText = text;
+    }
+
     public int ID
     {
         get { return aID; }

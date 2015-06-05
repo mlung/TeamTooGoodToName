@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-public class clsValidation
+public class clsValidate //Validation helper methods by Alka Harriger
 {
     public static void ShowMessage(string msg)
     {
@@ -168,6 +168,9 @@ public class clsValidation
         return true;
     }
 
+
+
+    //ComboBox validation by Miranda Lung
     public static bool validateInput(ComboBox cboInput)
     {
         string fieldName;
